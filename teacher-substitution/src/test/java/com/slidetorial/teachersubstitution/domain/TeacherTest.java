@@ -12,6 +12,7 @@ import org.junit.Test;
  * @author goobar
  *
  */
+@SuppressWarnings("javadoc")
 public class TeacherTest
 {
 
@@ -24,7 +25,7 @@ public class TeacherTest
 	}
 
 	@Test
-	public void should_ComputeScore() throws Exception
+	public void should_ComputeTeacherSubstituteScore() throws Exception
 	{
 		fail("Not yet implemented");
 	}

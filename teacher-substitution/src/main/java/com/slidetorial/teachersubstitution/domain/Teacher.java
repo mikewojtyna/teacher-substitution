@@ -9,6 +9,9 @@ package com.slidetorial.teachersubstitution.domain;
  * @author goobar
  *
  */
+// TODO: model teacher to have method "becomeAbsent" or
+// somethign like that - will trigger event domain to change
+// Timetable (potential) aggregate
 public class Teacher
 {
 	/**
