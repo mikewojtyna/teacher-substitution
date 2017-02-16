@@ -11,8 +11,8 @@ import org.junit.Test;
 import com.slidetorial.teachersubstitution.application.absence.AbsenceManager;
 import com.slidetorial.teachersubstitution.application.absence.command.ConfirmTeacherAbsence;
 import com.slidetorial.teachersubstitution.application.suggester.SubstituteTeacherSuggester;
-import com.slidetorial.teachersubstitution.domain.SubstituteSuggestion;
-import com.slidetorial.teachersubstitution.domain.Teacher;
+import com.slidetorial.teachersubstitution.domain.teacher.SubstituteSuggestion;
+import com.slidetorial.teachersubstitution.domain.teacher.Teacher;
 
 /**
  * @author goobar

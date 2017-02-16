@@ -3,8 +3,8 @@
  */
 package com.slidetorial.teachersubstitution.application.suggester;
 
-import com.slidetorial.teachersubstitution.domain.SubstituteSuggestion;
-import com.slidetorial.teachersubstitution.domain.Teacher;
+import com.slidetorial.teachersubstitution.domain.teacher.SubstituteSuggestion;
+import com.slidetorial.teachersubstitution.domain.teacher.Teacher;
 
 /**
  * An entry point to the substitute teacher suggester engine API.

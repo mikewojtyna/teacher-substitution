@@ -13,7 +13,7 @@ import org.junit.Test;
  *
  */
 @SuppressWarnings("javadoc")
-public class TeacherTest
+public class SchoolTimetableTest
 {
 
 	@Test
@@ -30,25 +30,6 @@ public class TeacherTest
 	{
 	}
 
-	@Test
-	public void should_BeQualifiedToRunLesson_When_HaveRightSkills()
-		throws Exception
-	{
-		fail("Not yet implemented");
-	}
-
-	@Test
-	public void should_ComputeTeacherSubstituteScore() throws Exception
-	{
-		fail("Not yet implemented");
-	}
-
-	@Test
-	public void should_ConfirmAbsence() throws Exception
-	{
-		fail("Not yet implemented");
-	}
-
 	/**
 	 * @throws java.lang.Exception
 	 */
@@ -56,4 +37,5 @@ public class TeacherTest
 	public void tearDown() throws Exception
 	{
 	}
+
 }

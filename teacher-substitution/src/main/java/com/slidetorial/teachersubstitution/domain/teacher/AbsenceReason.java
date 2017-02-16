@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.slidetorial.teachersubstitution.domain;
+package com.slidetorial.teachersubstitution.domain.teacher;
 
 /**
  * @author goobar
